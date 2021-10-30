@@ -8,9 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Working Images
 
+![the-news-app-spinner](https://user-images.githubusercontent.com/65787228/139527648-758e950c-74f3-4095-ba61-f27743495dbe.jpg)
 ![the-news-app-spinner-infiniteScroll](https://user-images.githubusercontent.com/65787228/139527630-c8e6a3d8-b8f4-4d38-95cb-053b083bc368.jpg)
 ![the-news-app-loading](https://user-images.githubusercontent.com/65787228/139527633-72142804-ea99-4861-a14c-1d77fb385ede.jpg)
-![the-news-app-spinner](https://user-images.githubusercontent.com/65787228/139527648-758e950c-74f3-4095-ba61-f27743495dbe.jpg)
 
 
 ## Available Scripts
