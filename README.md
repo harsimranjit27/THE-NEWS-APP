@@ -4,7 +4,13 @@ In the project directory, you can run it :-
 
 1) Download the zip and extract it.
 2) Open it in any terminal.
-3) Type the following command
+3) Go to the directory where you extracted the project.
+4) Type the following command
+
+### `npm install`
+
+It installs all the necessary packages to run the app smoothly.
+
 
 ### `npm start`
 
@@ -23,6 +29,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![the-news-app-spinner](https://user-images.githubusercontent.com/65787228/139527648-758e950c-74f3-4095-ba61-f27743495dbe.jpg)
 ![the-news-app-loading](https://user-images.githubusercontent.com/65787228/139527633-72142804-ea99-4861-a14c-1d77fb385ede.jpg)
 ![the-news-app-spinner-infiniteScroll](https://user-images.githubusercontent.com/65787228/139527630-c8e6a3d8-b8f4-4d38-95cb-053b083bc368.jpg)
-
-
-
