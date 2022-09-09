@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @media (min-width: 768px) and (max-width: 1023px) {
     .col-md-4{
         flex: 0 0 auto;
@@ -45,3 +46,18 @@
         height: 5em;
     }
 }
+=======
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+>>>>>>> 7fed584 (Initialize project using Create React App)
